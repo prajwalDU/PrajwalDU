@@ -1,8 +1,8 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif)]
-
+[![MasterHead](https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif)](https://github.com/prajwalDU)
 <h1 align="center">Hi 👋, I'm Prajwal D U</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/2DYg.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <a href="https://twitter.com/@uprajwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@uprajwal" height="30" width="40" /></a>
 
