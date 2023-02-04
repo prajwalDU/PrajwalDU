@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif)](https://github.com/prajwalDU)
+[![MasterHead]([https://miro.medium.com/max/1400/0*CHs47eo87tMPd_-q.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fdata%2Bscience&psig=AOvVaw2JjAq1jkGAUFDzloIR6sQL&ust=1675617351396000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjl_Jmv_PwCFQAAAAAdAAAAABAc))](https://github.com/prajwalDU)
 <h1 align="center">Hi 👋, I'm Prajwal D U</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/2DYg.gif">
